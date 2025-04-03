@@ -1,0 +1,18 @@
+{
+  "name": "pump.fun.amm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.0",
+    "@pump-fun/pump-swap-sdk": "^0.0.1-beta.22",
+    "@solana/web3.js": "^1.98.0"
+  }
+}
